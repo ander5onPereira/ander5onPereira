@@ -6,7 +6,7 @@
 ![family](https://user-images.githubusercontent.com/57048111/110192250-98e7cc00-7e0b-11eb-8ead-824a700a598d.png)
 Meu nome é Anderson, tenho 26 anos sou solteiro.<br>
 ![bolsa-de-estudos](https://user-images.githubusercontent.com/57048111/110192536-68089680-7e0d-11eb-93a7-d59a694d0b02.png)
-Graduando em Engenharia de Computação da Universidade Tecnológica Federal do Paraná Campus Pato Branco (UTFPR-PB).<br>
+Graduando em Engenharia de Computação na Universidade Tecnológica Federal do Paraná Campus Pato Branco (UTFPR-PB).<br>
 ![working-at-home](https://user-images.githubusercontent.com/57048111/110192729-ace0fd00-7e0e-11eb-91a9-b1711a887aff.png)
 Atualmente sou Desenvolvedor Júnior na empresa [INHD Sistemas](https://www.linkedin.com/company/inhd-sistemas/)
 <br/>
