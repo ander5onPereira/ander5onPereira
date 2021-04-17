@@ -33,6 +33,11 @@
 <h2>👩‍💻 Skills</h2>
 
 <p>
+  <a href="https://nodejs.org/en/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/NodeJS/nodejs.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://pt-br.reactjs.org/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/ReactJs/ReactJs.svg" alt="ReactJs" width="40" height="40"/>
+  <a href="https://reactnative.dev/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/React Native/react_native.svg" alt="ReactJs" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/JavaScript/javascript.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/TypeScript/typeScript.svg" alt="java" width="40" height="40"/>
   <a href="https://www.java.com"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Java/java.svg" alt="java" width="40" height="40"/>
   <a href="https://www.learn-c.org"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/C/c.svg" alt="c" width="40" height="40"/>
   <a href="https://www.learncpp.com/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/C%20%2B%2B/c.svg" alt="python" width="40" height="40"/>
@@ -48,7 +53,6 @@
   <a href="https://www.raspberrypi.org/software/operating-systems"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Raspberry%20Pi/raspberry_pi.svg" alt="raspberrypi" width="40" height="40"/>
   <a href="https://www.docker.com/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://www.espressif.com/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Espressif/espressif.svg" alt="espressif" width="40" height="40"/>
-  <a href="https://nodejs.org/en/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/NodeJS/nodejs.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
 <h2>🔥 Streak Stats</h2>
