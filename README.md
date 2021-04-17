@@ -27,9 +27,6 @@
   <a href="mailto:anderson.carro.95@gmail.com">
     <img align="center" src="https://github.com/ander5onPereira/icons/blob/main/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
-  <a href="https://expo.io/@andesonpereira">
-    <img align="center" src="https://github.com/ander5onPereira/icons/blob/main/badges/Expo/expo.svg" alt="expo" width="98" height="32" />
-  </a>
 </p>
 
 
@@ -58,12 +55,22 @@
   <a href="https://www.espressif.com/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Espressif/espressif.svg" alt="espressif" width="40" height="40"/>
 </p>
 
+<h2>📝 Publications</h2>
+
+<p>
+  <a href="https://expo.io/@andesonpereira">
+    <img align="center" src="https://github.com/ander5onPereira/icons/blob/main/badges/Expo/expo.svg" alt="expo" width="100" height="32" /></a>
+  <a href="https://play.google.com/store/apps/developer?id=GlaciarSoft">
+    <img align="center" src="https://github.com/ander5onPereira/icons/blob/main/badges/PlayStore/google-play-badge.svg" alt="expo" width="100" height="32" /></a>
+
+</p>
+
 <h2>🔥 Streak Stats</h2>
 
   <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ander5onPereira&theme=react" alt="ander5onPereira" />  
   </p>
-
+  
 <h2>📊 Stats</h2>
 
   <p align="center">
