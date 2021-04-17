@@ -27,6 +27,9 @@
   <a href="mailto:anderson.carro.95@gmail.com">
     <img align="center" src="https://github.com/ander5onPereira/icons/blob/main/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
+  <a href="https://expo.io/@andesonpereira">
+    <img align="center" src="https://github.com/ander5onPereira/icons/blob/main/badges/Expo/expo.svg" alt="gmail" />
+  </a>
 </p>
 
 
