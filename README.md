@@ -8,7 +8,9 @@
 <div align="center">
 <div align="center">
   
-  💼 Desenvolvedor Júnior na [INHD Sistemas](https://www.linkedin.com/company/inhd-sistemas/)
+  💼 Desenvolvedor Pleno na [Gen Shop](https://www.linkedin.com/company/gen-shop/)
+  
+  🏭 Proprietário da [ARPDev - Desenvolvimento](http://arpdev.com.br/)
   
   🎓 Graduando em Engenharia de Computação pela Universidade Tecnológica Federal do Paraná
   
