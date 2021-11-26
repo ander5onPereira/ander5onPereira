@@ -12,7 +12,7 @@
   
   🏭 Proprietário da [ARPDev - Desenvolvimento](http://arpdev.com.br/)
   
-  🎓 Graduando em Engenharia de Computação pela Universidade Tecnológica Federal do Paraná
+  🎓 Engenheiro de Computação formado na Universidade Tecnológica Federal do Paraná
   
 </div>
 </div>
@@ -76,10 +76,19 @@
 <h2>📊 Stats</h2>
 
   <p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="anderSonPereira Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ander5onPereira&bg_color=1F222E&color=F8D866&line=0396A6&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ander5onPereira Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ander5onPereira&bg_color=1F222E&color=F8D866&line=0396A6&point=FFFFFF&hide_border=true&title_color=539bf5&text_color=539bf5" /></a>
   </p>
 
-
+<p align="center">
+<a href="https://github.com/ander5onPereira">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ander5onPereira&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&title_color=539bf5" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ander5onPereira&theme=dracula&layout=compact&langs_count=6&title_color=539bf5" />
+ <p align="center"> 
+  Visitantes<br>
+  <img src="https://profile-counter.glitch.me/ander5onPereira/count.svg" />
+</p>
+</a>
+</p>
 
 <!--
 ### Hi there 👋
