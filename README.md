@@ -8,7 +8,7 @@
 <div align="center">
 <div align="center">
   
-  💼 Desenvolvedor Pleno na [Gen](https://www.linkedin.com/company/gen-shop/)
+  💼 Desenvolvedor Pleno
   
   🏭 Proprietário da [ARPDev - Desenvolvimento](http://arpdev.com.br/)
   
