@@ -70,7 +70,7 @@
 <h2>🔥 Streak Stats</h2>
 
   <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ander5onPereira&theme=react" alt="ander5onPereira" />  
+    <img src="[http://github-readme-streak-stats.herokuapp.com?user=ander5onPereira&theme=react](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats" alt="ander5onPereira" />  
   </p>
   
 <h2>📊 Stats</h2>
