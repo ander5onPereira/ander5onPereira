@@ -70,7 +70,7 @@
 <h2>🔥 Streak Stats</h2>
 
   <p align="center">
-    <img height="160em" src="https://wakatime.com/share/@ander5onPereira/e4570867-29ab-4555-88c1-11df1fc7739c.svg"/>
+    <img height="160em" src="https://wakatime.com/share/@ander5onPereira/99a96453-3457-4d9f-9888-6e88e6685c4f.svg"/>
   </p>
   
 <h2>📊 Stats</h2>
