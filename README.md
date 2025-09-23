@@ -86,7 +86,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ander5onPereira&theme=dracula&layout=compact&langs_count=6&title_color=539bf5" />
  <p align="center"> 
   Visitantes<br>
-  <img src="https://profile-counter.glitch.me/ander5onPereira/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=ander5onPereira&abbreviated=true"/>
 </p>
 </a>
 </p>
