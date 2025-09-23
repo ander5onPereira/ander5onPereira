@@ -77,7 +77,7 @@
 <h2>📊 Stats</h2>
 
   <p align="center">
-    <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=ander5onPereira&bg_color=293036&color=ffffff&line=7f22fe&point=0a9108&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+    <img height="320em" src="https://github-readme-activity-graph.vercel.app/graph?username=ander5onPereira&bg_color=293036&color=ffffff&line=7f22fe&point=0a9108&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
   
   </p>
 
