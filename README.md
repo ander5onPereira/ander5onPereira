@@ -8,7 +8,7 @@
 <div align="center">
 <div align="center">
   
-  💼 Desenvolvedor Pleno
+  💼 Desenvolvedor Front-End | Full-Stack
   
   🏭 Proprietário da [ARPDev - Desenvolvimento](http://arpdev.com.br/)
   
