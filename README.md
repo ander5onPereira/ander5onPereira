@@ -70,7 +70,7 @@
 <h2>🔥 Streak Stats</h2>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)" alt="ander5onPereira" />  
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ander5onPereira)](https://github.com/anuraghazra/github-readme-stats)" alt="ander5onPereira" />  
   </p>
   
 <h2>📊 Stats</h2>
