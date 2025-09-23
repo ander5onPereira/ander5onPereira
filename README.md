@@ -13,6 +13,7 @@
   🏭 Proprietário da [ARPDev - Desenvolvimento](http://arpdev.com.br/)
   
   🎓 Engenheiro de Computação formado na Universidade Tecnológica Federal do Paraná
+  📜 MBA Gestão Projetos de TI
   
 </div>
 </div>
