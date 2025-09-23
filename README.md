@@ -70,7 +70,7 @@
 <h2>🔥 Streak Stats</h2>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ander5onPereira&show_icons=true&theme=radical" alt="ander5onPereira" />  
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ander5onPereira&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="ander5onPereira" />  
   </p>
   
 <h2>📊 Stats</h2>
