@@ -90,7 +90,8 @@
   <img src="https://komarev.com/ghpvc/?username=ander5onPereira&abbreviated=true"/>
 </p>
   <p align="center">
-    <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=ander5onPereira&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)"/>
+  <!-- <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=ander5onPereira&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)"/>-->
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ander5onPereira&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
   </p>
 </a>
 </p>
