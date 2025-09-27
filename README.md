@@ -56,7 +56,7 @@
   <a href="https://www.raspberrypi.org/software/operating-systems"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Raspberry%20Pi/raspberry_pi.svg" alt="raspberrypi" width="40" height="40"/>
   <a href="https://www.docker.com/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://www.espressif.com/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Espressif/espressif.svg" alt="espressif" width="40" height="40"/>
-  <a href="https://www.espressif.com/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Vue/Vue.svg" alt="vue" width="40" height="40"/>
+  <a href="https://vuejs.org/"><img src="https://github.com/ander5onPereira/icons/blob/main/icons/Vue/Vue.svg" alt="vue" width="40" height="40"/>
 </p>
 
 <h2>📝 Publications</h2>
